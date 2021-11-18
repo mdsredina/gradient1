@@ -1,0 +1,8 @@
+#masha{
+    background: linear-gradient(45deg, transparent 30%,#FEC0EF ,#FEB4FF ),linear-gradient(45deg,#7E8CFE, #81AEFF );
+    color: white;
+    padding: 30px;
+    height: 500px;
+    font-family: sans-serif;
+    font-size: 1.5em;
+  }
